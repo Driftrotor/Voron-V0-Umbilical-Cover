@@ -5,4 +5,6 @@ I wanted to create something that would allow for removal of the connector witho
 Thai was my solution and has served me well so far.
 My V0 has undergone many maitainence and revovals of the umbilical and it still working as intended.
 
+The model has two plates availible both with Bowden Tube hole and Without Bowden Tube hole.
+
 ![Screenshot (126)](https://github.com/Driftrotor/Voron-V0-Umbilical-Cover/assets/94327757/b6d00dae-0dcf-42d1-afb9-71a2f3b84dcb)
